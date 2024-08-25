@@ -1,0 +1,19 @@
+{
+    "name": "com.siddharthvarde22.genericobjectpool",
+    "version": "1.0.0",
+    "displayName": "com.siddharthvarde22.genericobjectpool",
+    "description": "Generic object pool system to use in games",
+    "keywords": [
+        "object pool",
+        "objectpool",
+        "generic object pool",
+        "object pool system",
+        "siddharth",
+        "varde",
+        "siddharthvarde22"
+    ],
+    "author": {
+        "name": "Siddharth Varde 22",
+        "email": "siddharthvarde22@gmail.com"
+    }
+}
